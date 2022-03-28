@@ -1,0 +1,72 @@
+body {
+    background-image:url("images/Screenshot from 2022-03-26 22-11-30.png");
+    background-position: centre;
+    background-repeat: no-repeat;
+    
+    }
+    
+    body img{
+        width: 8%;
+        Height:4%;
+    
+    }
+    
+    .nav{
+        text-align: right;
+        text-size-adjust: 90px;
+    }
+    
+    nav ul li{
+        list-style: none;
+        display: inline;
+        padding: 20px 50px;
+        text-size-adjust: 90px;
+        text-decoration: none;
+    
+    
+    }
+    
+    nav ul li a{
+        font-weight: 900;
+        font-size: 20px;
+        text-decoration: none;
+        color: #FA6B16;
+    
+    }
+    
+    nav a:hover{
+        background-color: rgb(226, 108, 128);
+        color:blueviolet;
+    }
+
+    .contact{
+        text-align: right;
+    }
+    
+    .contact{
+        float: right;
+        color: #FA6B16;
+        font-size:x-large;
+        margin: 3px;
+        margin-top: 20%;
+        margin-right: 30px;
+        min-width: 400px;
+    
+    }
+
+    .contact thead th{
+        text-align: left;
+        border: 2px solid #FA6B16;
+    }
+
+    .contact tbody td{
+    border: 2px solid #FA6B16;
+    }
+
+    footer{
+        padding-bottom: 0px;
+        text-align:end;
+        font-display: flex;
+        padding-top: 525px;
+        color: #048F8A;
+    }

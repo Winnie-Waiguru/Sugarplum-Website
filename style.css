@@ -1,0 +1,68 @@
+body {
+background-image:url("/images/Screenshot from 2022-03-26 15-14-09.png");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+
+}
+
+body img{
+    width: 8%;
+    Height:4%;
+
+}
+
+.nav{
+    text-align: right;
+    text-size-adjust: 90px;
+}
+
+nav ul li{
+    list-style: none;
+    display: inline;
+    padding: 20px 50px;
+    text-size-adjust: 90px;
+    text-decoration: none;
+
+
+}
+
+nav ul li a{
+    font-weight: 900;
+    font-size: 20px;
+    text-decoration: none;
+    color: #FA6B16;
+
+}
+
+nav a:hover{
+    background-color: rgb(226, 108, 128);
+    color:blueviolet;
+}
+
+#Intro {
+    text-align: center;
+    color:#C75412;
+}
+
+#Intro h1{
+    font-size: 100px;
+    color: #C75412;
+    padding:60px;
+}
+
+#Intro p{
+    color: #f1dad2;
+    font-size: 30px;
+    font-style: italic;
+    margin-right: 50px;
+    padding:0px;
+}
+
+footer{
+    padding-bottom: 0px;
+    text-align:end;
+    font-display: flex;
+    padding-top: 100px;
+    color: #048F8A;
+}
